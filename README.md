@@ -1,0 +1,2 @@
+# Kornit
+DBeaver Kornit Project
